@@ -1,2 +1,2 @@
-# Mini-Banking-system
-This is a C++ Mini Banking system
+# Libary management system
+This is a C++ libary management system
